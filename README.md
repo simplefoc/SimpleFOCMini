@@ -1,7 +1,9 @@
 # SimpleFOCMini v1.0
 Small package, low-cost BLDC driver board fully compatible with the *simple**FOC**library*
 
-<img height="250px" src="https://user-images.githubusercontent.com/36178713/164254250-2c8b47f8-2994-482c-9db1-c287c8739e3e.png" /><img height="250px" src="https://user-images.githubusercontent.com/36178713/164254733-9cee96a1-2e32-4aca-973b-484454fdd4d0.png" /><img height="250px" src="https://user-images.githubusercontent.com/36178713/164254836-b3a86fcc-1860-480d-9db2-f72afa054af3.png" />
+<img height="350px" src="https://user-images.githubusercontent.com/36178713/164254250-2c8b47f8-2994-482c-9db1-c287c8739e3e.png" />
+
+<img height="350px" src="https://user-images.githubusercontent.com/36178713/164254733-9cee96a1-2e32-4aca-973b-484454fdd4d0.png" /><img height="350px" src="https://user-images.githubusercontent.com/36178713/164254836-b3a86fcc-1860-480d-9db2-f72afa054af3.png" />
 
 ## Features
 - DRV8313 based - [datasheet](https://www.ti.com/lit/ds/symlink/drv8313.pdf?ts=1650461862269&ref_url=https%253A%252F%252Fwww.google.com%252F)
