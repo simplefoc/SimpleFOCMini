@@ -12,5 +12,5 @@ Small package, low-cost BLDC driver board fully compatible with the *simple**FOC
 - Small size 26x20 mm
 - Fully compatible with the *Simple**FOC**library*
 - Fully open-source: [EasyEDA link](https://easyeda.com/the.skuric/simplefocmini)
-- Low-cost: JLCPCB production cost ~5€
-  - Will be available in the [shop](www.simplefoc.com/shop) soon: 7-10€ 
+- Low-cost: JLCPCB production cost ~3-5€
+  - Will be available in the [shop](https://www.simplefoc.com/shop) soon: 7-10€ 
