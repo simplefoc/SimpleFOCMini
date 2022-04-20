@@ -8,6 +8,7 @@ Small package, low-cost BLDC driver board fully compatible with the *simple**FOC
 - DRV8313 based - [datasheet](https://www.ti.com/lit/ds/symlink/drv8313.pdf?ts=1650461862269&ref_url=https%253A%252F%252Fwww.google.com%252F)
   - Power supply: 8-24V
   - Max current: 2.5A per phase
+  - Onboard 3.3V LDO
 - Small size 26x20 mm
 - Fully compatible with the *Simple**FOC**library*
 - Fully open-source: [EasyEDA link](https://easyeda.com/the.skuric/simplefocmini)
