@@ -1,8 +1,9 @@
 # SimpleFOCMini v1.1
 
-<img height="350px" src="./images/schema.png" />
-
 <img height="200px" src="./images/side.png"  /><img height="200px" src="./images/top.png" /><img height="200px" src="./images/bottom.png"  />
+
+<img height="350px" src="./images/schema.png" align="right"/>
+
 
 ## Features
 - DRV8313 based - [datasheet](https://www.ti.com/lit/ds/symlink/drv8313.pdf?ts=1650461862269&ref_url=https%253A%252F%252Fwww.google.com%252F)
@@ -20,6 +21,7 @@
 - Input header updated to be easier to use with arduino UNO, nucleos, but also with qtpy...
   - Changed the order of the IN1,IN2,IN3 and EN: 
   - Added an additional GND pin 
+- First batch of the SimpleFOCMini V1.1 will be available in the [shop](https://www.simplefoc.com/shop) soon: Price: 10-15€ 
 
 ## Getting started with SimpleFOCMini
 
